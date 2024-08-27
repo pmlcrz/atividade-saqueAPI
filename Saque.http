@@ -1,6 +1,0 @@
-@Saque_HostAddress = http://localhost:5225
-
-GET {{Saque_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
